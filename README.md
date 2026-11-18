@@ -13,7 +13,7 @@ No third-party packages are required.
 Clone this repository and change into its directory:
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/Kishoore1905/python-calculator.git
 cd python-calculator
 ```
 
